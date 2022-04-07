@@ -1,0 +1,70 @@
+div
+{
+    border-radius: 5px;
+    }
+
+
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+
+    height: auto;
+    width: 99%;
+    background-color: #E3EDD8;
+    }
+
+
+   
+
+.job-title
+{
+    font-weight: bold;
+    }
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+
+#job-title
+{
+    height: 5px;
+    }
+.job-duration
+{
+    float:right;
+    }
+    .container {
+  display: flex;
+}
+
+#col-1 {
+  background-color: #E3EDD8;
+  flex: 1;
+}
+
+#col-2 {
+  background-color: #E3EDD8;
+  flex: 1;
+}
+
+.btn {
+  border: 1;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+.btn:hover {background: #eee;}
+
+.Contact Me {color: green;}
+
+
